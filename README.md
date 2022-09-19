@@ -25,11 +25,11 @@ ls
 cd FBTARGET
 
 
-#Password List Maker 
+# Password List Maker 
 
 python passmaker.py
 
-#For Main Command 
+# For Main Command 
 
 python2 FBTARGET.py
 
